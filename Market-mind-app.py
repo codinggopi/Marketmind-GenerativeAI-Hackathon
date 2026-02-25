@@ -618,11 +618,11 @@ GROQ_URL   = "https://api.groq.com/openai/v1/chat/completions"
 
 # Set your Groq API key here if you don't want it in the UI.
 # You can also set an environment variable GROQ_API_KEY instead.
-DEFAULT_API_KEY = "REPLACE WITH API FILE "
+DEFAULT_API_KEY = "REPLACE_WITH_GROQ_KEY"
 
 # Set your Stability API key here for image generation.
 # This is used when STABILITY_API_KEY env var is not set.
-STABILITY_API_KEY = "REPLACE WITH API FILE"
+STABILITY_API_KEY = "REPLACE_WITH_STABILITY_KEY_FOR_IMAGE_GEN"
 
 # ─────────────────────────────────────────────
 # SESSION STATE
